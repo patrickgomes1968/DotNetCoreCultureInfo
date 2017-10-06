@@ -1,0 +1,8 @@
+C:\Users\Patrick\Desktop\trial dotnet projs\Calendars\bin\Debug\netcoreapp1.1\Calendars.deps.json
+C:\Users\Patrick\Desktop\trial dotnet projs\Calendars\bin\Debug\netcoreapp1.1\Calendars.runtimeconfig.json
+C:\Users\Patrick\Desktop\trial dotnet projs\Calendars\bin\Debug\netcoreapp1.1\Calendars.runtimeconfig.dev.json
+C:\Users\Patrick\Desktop\trial dotnet projs\Calendars\bin\Debug\netcoreapp1.1\Calendars.dll
+C:\Users\Patrick\Desktop\trial dotnet projs\Calendars\bin\Debug\netcoreapp1.1\Calendars.pdb
+C:\Users\Patrick\Desktop\trial dotnet projs\Calendars\obj\Debug\netcoreapp1.1\Calendars.AssemblyInfo.cs
+C:\Users\Patrick\Desktop\trial dotnet projs\Calendars\obj\Debug\netcoreapp1.1\Calendars.dll
+C:\Users\Patrick\Desktop\trial dotnet projs\Calendars\obj\Debug\netcoreapp1.1\Calendars.pdb
